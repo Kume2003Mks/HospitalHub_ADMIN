@@ -55,8 +55,7 @@ const items: MenuItem[] = [
       { key: '/page/orthopedic', label: 'Orthopedic and Joint Surgery Clinic' },
       { key: '/page/therapy', label: 'Physical Therapy Clinic' },
       { key: '/page/dermatology', label: 'Dermatology Clinic' },
-      { key: '/page/st_carlos_recc', label: 'St.Carlos RECC' },
-      { key: '/page/St_CarlosMedicalSpa', label: 'St. Carlos Medical Spa' },
+      { key: '/page/MedicalSpa', label: 'Medical Spa' },
     ],
   },
   {

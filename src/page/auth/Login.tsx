@@ -48,7 +48,7 @@ const Login = () => {
     <main className={Styles.backgroud}>
       <div className={Styles.container}>
         <img src={minilogo} alt="minilogo" className={Styles.logo} />
-        <span className={Styles.head}>Sign In to <b>St.Carlos Next</b></span>
+        <span className={Styles.head}>Sign In to <b>Nova Admin System</b></span>
         <form onSubmit={handleSubmit} className={Styles.FromLayout}>
           <div className={Styles.InputFrom}>
             <label htmlFor="email"><MdOutlineMail /></label>
