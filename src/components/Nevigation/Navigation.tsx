@@ -43,7 +43,7 @@ const items: MenuItem[] = [
     children: [
       { key: '/page/check-up', label: 'Check-up Center' },
       { key: '/page/emergency', label: 'Emergency' },
-      { key: '/page/pediatric', label: 'Pediatric 24H' },
+      { key: '/page/pediatric', label: 'Pediatric' },
       { key: '/page/women-health', label: `Women's Health Center` },
       { key: '/page/surgery', label: 'General Surgery Clinic' },
       { key: '/page/hemodialysis', label: 'Hemodialysis Center' },
@@ -52,7 +52,7 @@ const items: MenuItem[] = [
       { key: '/page/ent', label: 'ENT Clinic' },
       { key: '/page/geriatric', label: 'Geriatric Clinic' },
       { key: '/page/aesthetic-surgery', label: 'Aesthetic Surgery Center' },
-      { key: '/page/orthopedic', label: 'Orthopedic and Joint Surgery Clinic' },
+      { key: '/page/orthopedic', label: 'Orthopedic Clinic' },
       { key: '/page/therapy', label: 'Physical Therapy Clinic' },
       { key: '/page/dermatology', label: 'Dermatology Clinic' },
       { key: '/page/MedicalSpa', label: 'Medical Spa' },
